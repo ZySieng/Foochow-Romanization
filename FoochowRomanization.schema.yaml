@@ -2,12 +2,11 @@
 # encoding: UTF-8
 
 schema:
-  schema_id: GauHuoiLMC
+  schema_id: FoochowRomanization
   name: 福州話教會羅馬字
-  version: "2020.5.26.1"
+  version: "2024.11.02.2"
   author:
     - 作者：子善 <zysieng@gamil.com>
-    - 基於十九世纪福州府府城音系的福州話羅馬字，曾爲教會所使用。
 
 engine:
   processors:
@@ -45,7 +44,7 @@ speller:
     - derive/erurng/eung/
 
 translator:
-  dictionary: GauHuoiLMC
+  dictionary: FoochowRomanization
   # 設定 table_translator 使用的詞典名
   spelling_hints: 12
   enable_sentence: true
