@@ -1,5 +1,5 @@
 # RIME輸入方案:福州話教會羅馬字 
-# RIME : Input Method of Lò̤-mā-cê / Foochow Romanization
+RIME : Input Method of Lò̤-mā-cê / Foochow Romanization
 
 ## 本repo介紹
 福州話教會羅馬字的輸入方案在此處更新維護。
